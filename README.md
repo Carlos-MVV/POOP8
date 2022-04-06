@@ -1,7 +1,7 @@
 # POOP8
 Práctica 8 POO
 
-## Realizada por:
+### Realizada por:
 ##### Carlos Miguel Villaseñor Venegas
 ##### Josué Rubén Amezcua Granados
 ##### Janette Tovar Jara
